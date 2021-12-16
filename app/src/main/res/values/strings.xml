@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">PM01-3P-Tarea MVC</string>
+    <string name="hint_nombre">Nombres</string>
+    <string name="hint_apellidos">Apellidos</string>
+    <string name="hint_edad">Edad</string>
+    <string name="hint_direccion">Direccion</string>
+    <string name="hint_puestos">Puesto</string>
+    <string name="btn_guarda">Guardar Empleado</string>
+    <string name="menu_nuevo">Nuevo Empleado</string>
+
+</resources>
